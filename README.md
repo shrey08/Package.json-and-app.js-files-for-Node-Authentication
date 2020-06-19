@@ -1,4 +1,4 @@
-# Node-Authentication
-This is a node authentication module which can be used in any application which requires registration and login.
-This module makes use of MongoDB, Node, Express, Passport.
-Bootstrap is used for frontend generation.
+# package.json and app.js files
+This repository consist of these two files. The package.json
+file consist of all the dependencies related to that application. 
+The app.js file consist the structure of the app.
